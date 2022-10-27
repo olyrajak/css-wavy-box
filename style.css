@@ -195,10 +195,3 @@ body {
     animation-delay: 1.6s;
 }
 
-.loader span:nth-child(18) {
-    top: 170px;
-    left: 170px;
-    bottom: 170px;
-    right: 170px;
-    animation-delay: 1.7s;
-}
